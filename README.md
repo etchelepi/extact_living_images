@@ -14,3 +14,5 @@ extract_vid_gif.bat uses 7z (and if you uncomment the gif line, image magick) to
 If there is no living image inside of the JPEG, it is skipped. It only operates on the first name provided by the command line, and saves the file locally to where it was called.
 
 Combined it makes it convient to enjoy the embedded video files inside the Windows Phones Living images.
+
+This has been tested on Lumia 950 Images, but there is no reason it wouldn't work on other WP10 devices that use the Lumia camera for Living Images.
